@@ -1,7 +1,7 @@
 # Site settings
-title: EIS Lab
-email: jobregon@seoultech.ac.kr
-description: Homepage of the Explainable Intelligent Systems Lab at SeoulTech
+title: Sameer S Sahasrabudhe
+email: sameesss@iitgn.ac.in
+description: Personal webpage of Dr. Sameer S Sahasrabudhe
 baseurl: ""
 url: ""
 
@@ -12,22 +12,23 @@ url: ""
 
 # Footer info
 affiliation: >
-  EIS Lab<br/>
-  Prof. Josue Obregon<br/>
-  SeoulTech
+  Indian Institute of Technology Gandhinagar<br/>
+  Dr. Sameer S Sahasrabudhe<br/>
+  IITGN
 
 location: >  
-  Seoul National University of Science and Technology<br/>
-  232 Gongneung-ro, Nowon-gu<br/>
-  Seoul, Republic of Korea
+  Indian Institute of Technology Gandhinagar<br/>
+  Palaj, Gandhinagar, Gujarat 382355<br/>
+  India
 
 contact: >
-  <a href="mailto:jobregon@seoultech.ac.kr" target="_blank" style="color:CornflowerBlue"><i class="fa fa-envelope fa-1x" style="color:CornflowerBlue"></i> Contact lab PI via email</a> <br/>
-  <a href="https://github.com/st-eislab/st-eislab.github.io" style="color:CornflowerBlue"><i class="fa fa-github fa-1x" style="color:CornflowerBlue"></i> Use this site as a template. </a>
+  <a href="mailto:sameesss@iitgn.ac.in" target="_blank" style="color:CornflowerBlue"><i class="fa fa-envelope fa-1x" style="color:CornflowerBlue"></i> Contact Sameer S Sahasrabudhe via email</a> <br/>
+  <a href="https://github.com/sameesss" style="color:CornflowerBlue"><i class="fa fa-github fa-1x" style="color:CornflowerBlue"></i> My GitHub Profile</a>
 
 # Pages shown in navbar
 nav_pages:    
-  - name: members
+  - name: about
+  - name: talks
   - name: research
   - name: publications  
   - name: teaching
@@ -59,14 +60,14 @@ kramdown:
 plugins: ["jekyll/scholar"]
 
 scholar:
-  last_name: Doe
-  first_name: [John]
+  last_name: Sahasrabudhe
+  first_name: [Sameer, S]
 
   style: citesty
   locale: en
 
   source: /assets/
-  bibliography: obregon2024.bib
+  bibliography: sahasrabudhe_publications.bib
   bibliography_template: bibtemplate
   sort_by: year, month
   order: descending

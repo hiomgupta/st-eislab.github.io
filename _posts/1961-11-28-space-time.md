@@ -1,39 +1,12 @@
 ---
 layout: post
-title: "Space-Time"
-date: 1961-11-28
-categories: "Lecture Notes"
+title: "Road trip 2025: 03: Newasa"
+date: 2025-06-27
+categories: "Personal Notes"
 ---
+Lekhan Bhakti: Where words become worship
 
-## Lorentz transformation
+A few days ago, I visited Nevasa — a quiet village in Maharashtra, historically significant for being the place where the 13th-century saint-philosopher Sant Dnyaneshwar composed his revered commentary on the Bhagavad Gita, the Dnyaneshwari. He wrote it in Prakrit (Marathi) to make the Gita accessible to the common people. The legend goes that he sat beside a specific pillar in a temple there, channeling spiritual depth into poetic expression.
 
-$$
-\begin{equation}\label{lorentz}
-\begin{aligned}
-x' &= \frac{x-ut/c^2}{\sqrt{1-u^2/c^2}} \\
-t' &= \frac{t-ux/c^2}{\sqrt{1-u^2/c^2}}\\
-y' &= y \\
-z' &= z
-\end{aligned}
-\end{equation}
-$$
+As I stepped into the temple’s garbhagriha (sanctum), something unexpected caught my eye — not a grand sculpture or ritual, but a frail elderly woman, seated on the cold stone floor, with a thick manuscript in front of her. She was patiently copying verses of the Dnyaneshwari in her own hand.
 
-## Rotation
-
-$$
-\begin{equation}\label{rotation}
-\begin{aligned}
-x' &= x\cos(\theta) + y\sin(\theta) \\
-y' &= y\cos(\theta) - x\sin(\theta) \\
-z' &= z \\
-t' &= t
-\end{aligned}
-\end{equation}
-$$
-
-Equation \eqref{lorentz} is beautiful. So is equation \eqref{rotation}.
-
-## References
-
-- [The Feynman Lectures on Physics First Year Photos (1961‑62) Lecture 17](https://www.feynmanlectures.caltech.edu/flpphotos.html#17)
-- [Lorentz transformation on Wikipedia](https://en.wikipedia.org/wiki/Lorentz_transformation)

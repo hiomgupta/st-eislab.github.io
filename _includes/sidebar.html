@@ -25,6 +25,20 @@
 {% endfor %}
 </div>
 
+
+<div class="well">
+  <h4>Blogs</h4>
+  <ul style="padding-left: 1em;">
+    {% for post in site.posts limit:3 %}
+      <li>
+        {{ post.date | date_to_string }}: <a href="{{ site.url }}{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <h5><a href="{{ site.url }}{{ site.baseurl }}/blogs.html">... see all Blogs</a></h5>
+</div>
+
+
 <div class="well">
   <h4>News</h4>
 

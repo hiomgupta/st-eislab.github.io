@@ -1,20 +1,18 @@
-- name: Dr. Josue Obregon
-  photo: obregon_portrait.jpg
-  info: Josue Obregon Assistant Professor, Seoul National University 
-  email: jobregon@seoultech.ac.kr
-  office: Changhak Hall Rm. 334-1
-  github: https://github.com/jobregon1212
-  researchgate: https://www.researchgate.net/
-  scholar: https://scholar.google.com/citations?user=KjvxM5gAAAAJ
-  # cv: cv/cv.pdf
-  interests: Rule-based systems XAI, Human-centered AI, Manufacturing Quality prediction, Renewable energy generation forecasting 
-  # Change the items in "education" you have (up to 6)
+- name: Dr. Sameer S Sahasrabudhe
+  photo: sameer.jpg
+  info: Sameer S Sahasrabudhe, Professor, IIT Gandhinagar
+  email: sameesss@iitgn.ac.in
+  office: Block 5, Room 123, IIT Gandhinagar
+  github: https://github.com/sameesss
+  researchgate: https://www.researchgate.net/profile/Sameer_S_Sahasrabudhe
+  scholar: https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID
+  # cv: cv/sameer_cv.pdf
+  interests: Educational Technology, MOOCs, Animation in Education, Learning Analytics, Instructional Design
   education:
     [
-      "(2020) Ph.D. Industrial & Mgmt. Systems Engineering, Kyung Hee University",
-      "(2014) M.Sc. Industrial & Mgmt. Systems Engineering, Kyung Hee University",
-      "(2011) B.S. Science and Systems Engineering, Universidad de San Carlos",
+      "(2012) Ph.D. Educational Technology, IIT Bombay",
+      "(2004) M.Des. Visual Communication, IDC, IIT Bombay",
+      "(2001) B.E. Production Engineering, Nagpur University"
     ]
-
   educationshort:
-    ["(2020) Ph.D. Industrial Eng., Kyung Hee", "(2011) B.S. Computer Eng., USAC"]
+    ["(2012) Ph.D. EdTech, IITB", "(2004) M.Des. IDC, IITB", "(2001) B.E. Prod. Engg, Nagpur"]
