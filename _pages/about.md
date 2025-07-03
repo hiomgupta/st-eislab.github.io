@@ -64,7 +64,7 @@ Small wonder, therefore, that OSCAR was the reason I enrolled as a research scho
 <br>
 Here is a word cloud of my thesis:
 
-![Word cloud of thesis](word_cloud.png) </p>
+![Word cloud of thesis]({{ site.baseurl }}/images/word_cloud.png) </p>
 </div>
 
 
