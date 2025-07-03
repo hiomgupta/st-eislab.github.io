@@ -63,8 +63,11 @@ Small wonder, therefore, that OSCAR was the reason I enrolled as a research scho
 <br>
 <br>
 Here is a word cloud of my thesis:
+<p align="center">
+  <img src="{{ site.baseurl }}/images/word_cloud.png" alt="Word cloud of thesis" style="max-width:100%; height:auto; display:block; margin:auto;" />
+</p>
 
-![Word cloud of thesis]({{ site.baseurl }}/images/word_cloud.png) </p>
+</p>
 </div>
 
 
